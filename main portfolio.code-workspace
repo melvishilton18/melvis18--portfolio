@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "figma-to-html",
+			"path": "../../../Downloads/figma-to-html"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
